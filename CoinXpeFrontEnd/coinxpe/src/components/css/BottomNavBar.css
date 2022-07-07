@@ -1,0 +1,19 @@
+.navbar {
+  background-color: #172e4d;
+  width: 500px;
+  height: 8vh;
+  border-top-left-radius: 40px;
+  border-top-right-radius: 40px;
+}
+
+.bnbicons {
+  padding-left: 5%;
+  padding-right: 5%;
+  font-size: 30px;
+  color: #4c6079;
+  cursor: pointer;
+}
+
+.bnbactiveicons {
+  color: #fff;
+}

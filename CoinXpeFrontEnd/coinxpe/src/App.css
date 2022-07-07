@@ -1,0 +1,35 @@
+body {
+  background-color: #0f233c;
+  color: white;
+}
+
+tr {
+  border-bottom: #182c45 !important;
+}
+
+.tableBody {
+  color: #fff;
+  padding: 40px;
+  border-top: #182c45 !important;
+}
+
+.h1 {
+  font-family: Quicksand, "Segoe UI", sans-serif;
+  font-weight: 800;
+  font-size: 48px;
+  margin: 0% !important;
+  color: #ffff;
+  position: relative;
+}
+
+.p {
+  position: relative;
+  margin: 0% !important;
+}
+
+.h5 {
+  padding-top: 10px;
+  margin: 5px;
+  font-weight: 500;
+  font-size: 18px;
+}

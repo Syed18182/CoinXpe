@@ -1,0 +1,29 @@
+{
+  "name": "coinxpe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.17.3",
+    "gemini-node-api": "^4.0.0",
+    "msnodesqlv8": "^2.4.5",
+    "mssql": "^8.0.2",
+    "nodemailer": "^6.7.2",
+    "pg": "^8.7.3",
+    "razorpay": "^2.8.1",
+    "redis": "^4.0.4",
+    "request-promise": "^4.2.6",
+    "rp": "^0.2.0",
+    "shortid": "^2.2.16"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}

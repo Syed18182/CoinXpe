@@ -1,0 +1,126 @@
+.bannerIcon {
+  font-size: xx-small;
+  position: absolute;
+  top: 270px;
+  left: 46.8%;
+}
+
+.activeIcons {
+  color: white;
+  position: relative;
+  margin-left: 5px;
+  font-size: 13px;
+}
+
+.icons {
+  color: rgba(255, 255, 255, 0.579);
+  margin-left: 5px;
+  margin-top: 3px;
+}
+
+.slider {
+  position: relative;
+  height: fit-content;
+  display: flex;
+  justify-content: center;
+}
+
+.slide {
+  opacity: 0;
+  transition: 1s easy;
+}
+
+.tableHome {
+  width: 94%;
+  margin-left: 1%;
+  margin-right: 1%;
+  table-layout: fixed;
+  position: absolute;
+  color: #2c4058;
+}
+
+.heigh30
+{
+  margin-bottom: 530px;
+  visibility: hidden;
+}
+
+.tableHome th {
+  background-color: #172e4d;
+  text-align: center;
+  color: #fff;
+}
+
+.tableHome td {
+  text-align: center;
+}
+
+.slide-active {
+  opacity: 1;
+  transition: 1s;
+  transform: skewX(1.08);
+}
+
+.home-card-body {
+  background-color: #172e4d;
+  width: fit-content;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 15px !important;
+  padding: 0px !important;
+  border-radius: 4px;
+}
+
+.topGainers {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: #fff;
+  margin-left: 3.5%;
+  cursor: pointer;
+  font-size: large;
+}
+
+.topLosers {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: #fff;
+  margin-left: 80px;
+  cursor: pointer;
+  font-size: large;
+}
+
+.headeroftable {
+  border-bottom: #172e4d;
+}
+
+.activeTableHeader {
+  border-bottom: #4784a0 solid;
+  color: #4784a0;
+}
+
+.colorDull {
+  color: #2a3e57;
+  font-size: small;
+}
+
+.colorDull2 {
+  color: #4d5b6d;
+  font-size: 15px;
+  padding-top: 4px;
+}
+
+.redLabel {
+  width: 80px;
+  text-align: center;
+  margin-left: 42%;
+  color: #fff !important;
+  background-color: #eb4a46 !important;
+}
+
+.greenLabel {
+  width: 80px;
+  margin-left: 42%;
+  text-align: center;
+  color: #fff !important;
+  background-color: #0db985 !important;
+}

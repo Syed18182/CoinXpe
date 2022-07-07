@@ -1,0 +1,78 @@
+.logo {
+  color: aqua;
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.loginbox {
+  width: 600px;
+}
+
+.btn-ex-lg {
+  width: 92%;
+  font-weight: 600;
+}
+
+.createAccountBtn {
+  background-color: rgba(11, 26, 45, 255) !important;
+  border-color: rgba(20, 50, 70, 255) !important;
+  border-width: thick;
+  color: rgb(0, 200, 255);
+}
+
+.createAccountBtn:hover {
+  background-color: rgba(11, 26, 45, 255) !important;
+  border-color: rgba(20, 50, 70, 255) !important;
+  border-width: thick;
+  color: rgb(0, 200, 255);
+}
+
+.forgetPwdBtn {
+  width: fit-content;
+  cursor: pointer;
+  color: rgb(0, 200, 255);
+}
+
+input {
+  background-color: rgba(11, 26, 45, 255) !important;
+  border-color: rgba(75, 75, 89, 255) !important;
+  color: #5b7572 !important;
+}
+
+.input-group-text {
+  background-color: rgba(11, 26, 45, 255) !important;
+  border-color: rgba(75, 75, 89, 255) !important;
+}
+
+#appear-on-click {
+  display: none;
+}
+
+#appear-otp {
+  display: none;
+}
+
+#appear-newPwd {
+  display: none;
+}
+
+#appear-confirmPwd {
+  display: none;
+}
+
+input:disabled {
+  background-color: rgba(11, 26, 55, 255) !important;
+}
+
+#invalid-feed{
+  display: none;
+  color: #d0303f;
+  font-size: medium;
+}
+
+@media (max-width: 576px) {
+  .btn-ex-lg {
+    width: 88%;
+    font-weight: 600;
+  }
+}

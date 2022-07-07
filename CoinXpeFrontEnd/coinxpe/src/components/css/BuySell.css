@@ -1,0 +1,22 @@
+.buyBtn {
+  width: 250px;
+  font-size: 40px !important;
+  margin-top: 30px;
+  margin-left: auto;
+  background-color: #0abb91;
+  border: #0abb91 solid;
+  border-radius: 20px;
+  color: #f8feff;
+  margin-right: auto;
+}
+.sellBtn {
+  width: 250px;
+  font-size: 40px !important;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px;
+  background-color: #0f233c;
+  color: #f8feff;
+  border: #0abb91 solid !important;
+}
